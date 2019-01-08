@@ -10,3 +10,4 @@ Function returns list N numbers.
 ###Ex.###
     fido(6) 
     [1, 1, 2, 3, 5, 8]
+
