@@ -7,6 +7,6 @@ This is sequence, such that each number is the sum of the two preceding ones.
 Function returns list N numbers.
 
 
-Ex.
+####Ex.####
     fido(6) 
     [1, 1, 2, 3, 5, 8]
