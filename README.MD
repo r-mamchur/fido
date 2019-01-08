@@ -6,6 +6,7 @@ f(n) = f(n-2) + f(n-1)
 
 Function returns list N numbers.
 
+
 Ex.
   fido(6) 
   [1, 1, 2, 3, 5, 8]
