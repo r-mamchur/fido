@@ -1,7 +1,7 @@
 def fido(n):
    if n == 1:
       return [1]
-   if n == 1:
+   if n == 2:
       return [1,1]
 
    s_l = [1,1]
