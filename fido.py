@@ -1,8 +1,8 @@
+#!/usr/bin/python -u
+
 def fido(n):
    if n == 1:
       return [1]
-   if n == 2:
-      return [1,1]
 
    s_l = [1,1]
    for  k in range(2,n) :
@@ -10,5 +10,6 @@ def fido(n):
    return s_l
 
 
-
+print(fido(1))
+print(fido(2))
 print(fido(6))
