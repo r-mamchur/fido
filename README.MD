@@ -2,7 +2,7 @@
 
 This is sequence, such that each number is the sum of the two preceding ones.
 
-`f(n) = f(n-2) + f(n-1)`
+`fn(n) = fn(n-2) + fn(n-1)`
 
 Function returns list N numbers.
 
